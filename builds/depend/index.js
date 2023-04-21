@@ -654,16 +654,24 @@ var audio
         }
     }
     stopsound (args, utils) {
-        audio.pause()
+        if(audio !== undefined) {
+            audio.pause()
+        }
     }
     audioTime (args, utils) {
-        return audio.currentTime
+        if(audio !== undefined) {
+            return audio.currentTime
+        }
     }
     lengthAudio (args, utils) {
-        return audio.duration
+        if(audio !== undefined) {
+            return audio.duration
+        }
     }
     loopAudio (args, utils) {
-        audio.loop = args.checked
+        if(audio !== undefined) {
+            audio.loop = args.checked
+        }
     }
 }
 
