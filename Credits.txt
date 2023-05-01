@@ -4,11 +4,28 @@ Lead Programmer
 Programmers
   ShipmasterKyle
   
+HighClass Developers
+  ShipmasterKyle
+  SheepTester
+  UtterDonkey
+  SithLor
+  Itz-Electro
+  TeleKiwi
+  
+SNext Audio Player (Snap)
+  ShipmasterKyle
+
+
 SNConnect Developers
   MikeDev
+  tnix100
+  showierdata9978
+  Riuqlav
+  williamhorning
   ShipmasterKyle
 
 Artist
   Gui Designers
     mounirtohami - https://mounirtohami.itch.io/pixel-art-gui-elements
-    
+  Character Designs
+    hyo
