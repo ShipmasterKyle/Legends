@@ -10,5 +10,5 @@ SNConnect Developers
 
 Artist
   Gui Designers
-    crusenho
+    mounirtohami - https://mounirtohami.itch.io/pixel-art-gui-elements
     
