@@ -29,3 +29,5 @@ Artist
     mounirtohami - https://mounirtohami.itch.io/pixel-art-gui-elements
   Character Designs
     hyo
+   Emojis
+    ZeiiBB
